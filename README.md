@@ -14,9 +14,7 @@ In this project, I implemented a pre-trained model (YOLOv5) to detect and classi
 
 ## Video
 
-The video can be found in this repository under `/video/output_video.mp4`. Or you can watch [this YouTube video](https://www.youtube.com/watch?v=b7o9Njpe0Lw) I uploaded
-
-[Direct link to video in this repository](/video/output_video.mp4)
+The video can be found here: [www.youtube.com](https://www.youtube.com/watch?v=b7o9Njpe0Lw)
 
 ## TODO: Improvements
 
