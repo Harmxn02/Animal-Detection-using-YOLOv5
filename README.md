@@ -16,8 +16,10 @@ In this project, I implemented a pre-trained model (YOLOv5) to detect and classi
 
 The video can be found here: [www.youtube.com](https://www.youtube.com/watch?v=b7o9Njpe0Lw)
 
-## TODO: Improvements
+## Improvements
 
 The base model is not very accurate. The screencaps above classified the animals correctly, but they are cherry picked. I would say the model is about 35% correct in classifying animals. Detecting them on the other hand, happens at a very good rate.
 
-An improvement would be to train the model using a custom dataset, like COCO.
+An improvement would be to train the model using a custom dataset, which is exactly what I did. I retrained the dataset using the Animals-10 dataset.
+
+![screencap training](./public/3.png)
